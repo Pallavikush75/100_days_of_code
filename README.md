@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavikush75/100_days_of_code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Pallavikush75/100_days_of_code/tree/master/2164-sort-even-and-odd-indices-independently) |
+## Sorting
+|  |
+| ------- |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Pallavikush75/100_days_of_code/tree/master/2164-sort-even-and-odd-indices-independently) |
 <!---LeetCode Topics End-->
