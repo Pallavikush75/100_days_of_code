@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavikush75/100_days_of_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2595-number-of-even-and-odd-bits](https://github.com/Pallavikush75/100_days_of_code/tree/master/2595-number-of-even-and-odd-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
