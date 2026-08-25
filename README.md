@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pallavikush75/100_days_of_code/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -26,8 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
+| [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
+| [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
 <!---LeetCode Topics End-->
