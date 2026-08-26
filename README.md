@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0014-longest-common-prefix) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pallavikush75/100_days_of_code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
 ## Sorting
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0014-longest-common-prefix) |
 | [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
