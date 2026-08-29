@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0014-longest-common-prefix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pallavikush75/100_days_of_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pallavikush75/100_days_of_code/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
 ## Sorting
