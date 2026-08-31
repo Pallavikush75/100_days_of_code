@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Pallavikush75/100_days_of_code/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
 | [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
 ## String
