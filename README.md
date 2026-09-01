@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Pallavikush75/100_days_of_code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Pallavikush75/100_days_of_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pallavikush75/100_days_of_code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pallavikush75/100_days_of_code/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pallavikush75/100_days_of_code/tree/master/0169-majority-element) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pallavikush75/100_days_of_code/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Bit Manipulation
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Pallavikush75/100_days_of_code/tree/master/0169-majority-element) |
 | [2451-odd-string-difference](https://github.com/Pallavikush75/100_days_of_code/tree/master/2451-odd-string-difference) |
 ## String
 |  |
@@ -84,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pallavikush75/100_days_of_code/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pallavikush75/100_days_of_code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pallavikush75/100_days_of_code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pallavikush75/100_days_of_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
