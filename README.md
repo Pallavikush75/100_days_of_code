@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pallavikush75/100_days_of_code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pallavikush75/100_days_of_code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Pallavikush75/100_days_of_code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavikush75/100_days_of_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Pallavikush75/100_days_of_code/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Pallavikush75/100_days_of_code/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavikush75/100_days_of_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pallavikush75/100_days_of_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pallavikush75/100_days_of_code/tree/master/0169-majority-element) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pallavikush75/100_days_of_code/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Pallavikush75/100_days_of_code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
