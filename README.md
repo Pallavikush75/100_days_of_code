@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pallavikush75/100_days_of_code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pallavikush75/100_days_of_code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pallavikush75/100_days_of_code/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavikush75/100_days_of_code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pallavikush75/100_days_of_code/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Pallavikush75/100_days_of_code/tree/master/0136-single-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Pallavikush75/100_days_of_code/tree/master/2595-number-of-even-and-odd-bits) |
 ## Hash Table
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pallavikush75/100_days_of_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Pallavikush75/100_days_of_code/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 ## Z Algorithm
 |  |
 | ------- |
