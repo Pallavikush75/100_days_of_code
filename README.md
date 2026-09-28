@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pallavikush75/100_days_of_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Pallavikush75/100_days_of_code/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Pallavikush75/100_days_of_code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pallavikush75/100_days_of_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Pallavikush75/100_days_of_code/tree/master/0056-merge-intervals) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pallavikush75/100_days_of_code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Pallavikush75/100_days_of_code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Pallavikush75/100_days_of_code/tree/master/0148-sort-list) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pallavikush75/100_days_of_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Pallavikush75/100_days_of_code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Pallavikush75/100_days_of_code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0090-subsets-ii) |
