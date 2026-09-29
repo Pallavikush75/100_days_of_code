@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Pallavikush75/100_days_of_code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Pallavikush75/100_days_of_code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pallavikush75/100_days_of_code/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Pallavikush75/100_days_of_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Pallavikush75/100_days_of_code/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0189-rotate-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pallavikush75/100_days_of_code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Pallavikush75/100_days_of_code/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Pallavikush75/100_days_of_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavikush75/100_days_of_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pallavikush75/100_days_of_code/tree/master/0152-maximum-product-subarray) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pallavikush75/100_days_of_code/tree/master/0079-word-search) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pallavikush75/100_days_of_code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
