@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Pallavikush75/100_days_of_code/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Pallavikush75/100_days_of_code/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pallavikush75/100_days_of_code/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/0151-reverse-words-in-a-string) |
