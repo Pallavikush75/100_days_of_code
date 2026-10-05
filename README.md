@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Pallavikush75/100_days_of_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Pallavikush75/100_days_of_code/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavikush75/100_days_of_code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Pallavikush75/100_days_of_code/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Pallavikush75/100_days_of_code/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Pallavikush75/100_days_of_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavikush75/100_days_of_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pallavikush75/100_days_of_code/tree/master/0152-maximum-product-subarray) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pallavikush75/100_days_of_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Pallavikush75/100_days_of_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pallavikush75/100_days_of_code/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -397,6 +400,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pallavikush75/100_days_of_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Pallavikush75/100_days_of_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pallavikush75/100_days_of_code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
