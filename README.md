@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Pallavikush75/100_days_of_code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pallavikush75/100_days_of_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Pallavikush75/100_days_of_code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Pallavikush75/100_days_of_code/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pallavikush75/100_days_of_code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Pallavikush75/100_days_of_code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Pallavikush75/100_days_of_code/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0090-subsets-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Pallavikush75/100_days_of_code/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Pallavikush75/100_days_of_code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Pallavikush75/100_days_of_code/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pallavikush75/100_days_of_code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/0097-interleaving-string) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pallavikush75/100_days_of_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Pallavikush75/100_days_of_code/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pallavikush75/100_days_of_code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
