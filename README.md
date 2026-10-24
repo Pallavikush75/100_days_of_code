@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pallavikush75/100_days_of_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavikush75/100_days_of_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pallavikush75/100_days_of_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Pallavikush75/100_days_of_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Pallavikush75/100_days_of_code/tree/master/0148-sort-list) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavikush75/100_days_of_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pallavikush75/100_days_of_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Combinatorics
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavikush75/100_days_of_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pallavikush75/100_days_of_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavikush75/100_days_of_code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pallavikush75/100_days_of_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pallavikush75/100_days_of_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pallavikush75/100_days_of_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
