@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Pallavikush75/100_days_of_code/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Pallavikush75/100_days_of_code/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pallavikush75/100_days_of_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pallavikush75/100_days_of_code/tree/master/0242-valid-anagram) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Pallavikush75/100_days_of_code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavikush75/100_days_of_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pallavikush75/100_days_of_code/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Pallavikush75/100_days_of_code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Pallavikush75/100_days_of_code/tree/master/0410-split-array-largest-sum) |
 ## Manacher
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pallavikush75/100_days_of_code/tree/master/0131-palindrome-partitioning) |
 ## Z Algorithm
 |  |
 | ------- |
