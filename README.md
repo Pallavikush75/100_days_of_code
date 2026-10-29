@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pallavikush75/100_days_of_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Pallavikush75/100_days_of_code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pallavikush75/100_days_of_code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Pallavikush75/100_days_of_code/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Pallavikush75/100_days_of_code/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Pallavikush75/100_days_of_code/tree/master/0189-rotate-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pallavikush75/100_days_of_code/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Pallavikush75/100_days_of_code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Pallavikush75/100_days_of_code/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Pallavikush75/100_days_of_code/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Pallavikush75/100_days_of_code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Pallavikush75/100_days_of_code/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Pallavikush75/100_days_of_code/tree/master/0097-interleaving-string) |
@@ -530,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pallavikush75/100_days_of_code/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pallavikush75/100_days_of_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
